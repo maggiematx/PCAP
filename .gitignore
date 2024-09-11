@@ -1,7 +1,0 @@
-*.idea
-*.pyc
-*.env
-venv/
-env/
-*.DS_Store
-*.code-workspace
