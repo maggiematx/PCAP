@@ -1,0 +1,12 @@
+# Basic pacakges
+pandas
+
+# Dash app
+dash
+dash_bootstrap_components
+openpyxl # Read Excel files
+
+# MySQL database
+sqlalchemy
+pymysql
+cryptography
